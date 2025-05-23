@@ -8,7 +8,7 @@ category: "引っ越し"
 
 準備として、サーバー・ドメインや WordPress を使える状態にしておいてください。  
   
-参考「[WordPress > 初期設定 - 投稿一覧 - くるっと](https://kerupani129.net/blog2/category/wordpress/%E5%88%9D%E6%9C%9F%E8%A8%AD%E5%AE%9A/)」
+参考「[初期設定 - Blog WordPress](../README.md#初期設定)」
 
 ここで説明する方法では以下のデータを移行することができます (それ以外は移行しません) 。
 
@@ -100,7 +100,7 @@ FC2ブログに取り込んだ記事の件数と、「投稿 > 投稿一覧」�
 
 ※注意: 画像をアップロードする前に、サムネイル生成の設定を行ってください。  
   
-参考「[3.2.4. メディア設定 - WordPress 初期設定 - くるっと](https://kerupani129.net/blog2/posts/wordpress-%E5%88%9D%E6%9C%9F%E8%A8%AD%E5%AE%9A/#324)」
+参考「[3.2.4. メディア設定 - WordPress 初期設定 - Blog WordPress](wordpress-初期設定.md#324-メディア設定)」
 
 管理画面から「メディア > ライブラリ」のページに行き、画像をまとめてアップロードします。
 
