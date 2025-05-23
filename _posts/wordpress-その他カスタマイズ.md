@@ -1,8 +1,7 @@
 ---
 title: "WordPress その他カスタマイズ"
 date: 2019-05-11
-categories: 
-  - "初期設定"
+category: "初期設定"
 ---
 
 個人的に、色の設定や追加 CSS は使用せずに、代わりに子テーマの style.css を使用しています。

@@ -1,8 +1,7 @@
 ---
 title: "WordPress エラー apply_filters widget_title"
 date: 2019-05-20
-categories: 
-  - "プラグイン"
+category: "プラグイン"
 ---
 
 おそらく公式ドキュメントの記述が間違っていて、それが理由だと思うのですが、apply\_filters widget\_title でエラー・警告が発生するウィジェットのプラグインが多々あります。

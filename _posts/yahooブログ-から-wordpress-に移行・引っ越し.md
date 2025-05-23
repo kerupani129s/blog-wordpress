@@ -1,8 +1,7 @@
 ---
 title: "Yahoo!ブログ から WordPress に移行・引っ越し"
 date: 2019-05-12
-categories: 
-  - "引っ越し"
+category: "引っ越し"
 ---
 
 ※作業は自己責任でお願いします。

@@ -1,8 +1,7 @@
 ---
 title: "WordPress プラグイン Search Regex のバグ"
 date: 2019-05-18
-categories: 
-  - "プラグイン"
+category: "プラグイン"
 ---
 
 ※2019/05/18 現在、バージョン 1.4.16 での内容です。
