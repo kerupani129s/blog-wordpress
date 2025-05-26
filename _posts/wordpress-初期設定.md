@@ -54,7 +54,7 @@ WordPress などの有名な CMS を簡単にインストールできる機能�
 
 ##### .htaccess
 
-```
+```apache
 # 常時 https non-www
 RewriteEngine on
 
